@@ -45,7 +45,9 @@ bash
 
 The program will read from input.json, decode the values, and output the constant term (c).
 
-************************************************8
+************************************************
+
+
 Approach Summary
 Input Reading:
 
